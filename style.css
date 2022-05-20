@@ -7,6 +7,8 @@
     border-radius: 2px;
     cursor: pointer;
     margin-right: 8px;
+    text-transform: uppercase;
+    text-transform: uppercase;
 }
 
 .subscribe-button:hover {
@@ -27,6 +29,7 @@
     width: 60px;
     border-radius: 2px;
     cursor: pointer;
+    text-transform: uppercase;
 }
 
 .join-button:hover {
